@@ -87,6 +87,8 @@ def main():
     
     if st.button("Blog Link"):
         st.text("https://medium.datadriveninvestor.com/lets-find-planets-beyond-our-solar-system-milky-way-galaxy-with-the-help-of-905dcfc95d3d")
+    if st.button("Linked-In Profile Link"):
+        st.text("https://www.linkedin.com/in/utkarsh-parashar-8529641a0/")
         
 if __name__=='__main__':
     main()
